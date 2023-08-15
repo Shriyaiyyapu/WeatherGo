@@ -5,6 +5,8 @@ Real-Time Weather Application
 
 Welcome to the Real-Time Weather Application repository! This web application is designed to provide users with up-to-date weather information for locations around the world. Built using HTML, CSS, and JavaScript, this project utilizes an API to fetch real-time weather data and present it in a user-friendly and visually appealing interface.
 
+Find the deployed website here : https://shriyaiyyapu.github.io/WeatherGo/
+
 Features:
 
 - Real-Time Data: Get instant access to the current weather conditions, including temperature, humidity, wind speed, and more, for any location of your choice.
