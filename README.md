@@ -14,6 +14,8 @@ Features:
 - Visual Representation: The weather information is presented with icons and graphics to help users quickly understand the current conditions at a glance.
 - Responsive Design: The application is designed to be responsive and accessible across various devices, ensuring a seamless experience on both desktop and mobile screens.
 
+
+
 How It Works:
 
 1. API Integration: The application uses a weather API to fetch real-time weather data. This data is then processed and displayed on the user interface.
